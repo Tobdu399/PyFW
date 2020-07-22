@@ -21,6 +21,7 @@ Python File Writer
 - CENTER
 - RIGHT
 
-- Example:
+- Example 1:
     _Presentation -- CENTER_    (to align the text to the center)
+- Example 2:
     _Presentation -- RIGHT_     (to align the text to the right)
