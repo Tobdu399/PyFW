@@ -3,11 +3,11 @@ Python File Writer
 
 # Setup
 - Create a "bin" directory in your home folder:
-    _sudo mkdir ~/bin_
+    *sudo mkdir ~/bin*
 - Go to the folder where "pyfw.py" is located and make it executable:
-    _sudo chmod +x pyfw.py_
+    *sudo chmod +x pyfw.py*
 - And create a symbolic link to the file
-    _ln -s $PWD/pyfw.py ~/bin/pyfw_
+    *ln -s $PWD/pyfw.py ~/bin/pyfw*
 - Done!
 
 # Usage
@@ -22,6 +22,6 @@ Python File Writer
 - RIGHT
 
 - Example 1:
-    _Presentation -- CENTER_    (to align the text to the center)
+    *Presentation -- CENTER*    (to align the text to the center)
 - Example 2:
-    _Presentation -- RIGHT_     (to align the text to the right)
+    *Presentation -- RIGHT*     (to align the text to the right)
